@@ -1,0 +1,11 @@
+{
+    "pretrained_model": "path/to/pretrained/pretrained_model",
+    "train_image_dir": "path/to/train/images",
+    "train_label_dir": "path/to/train/labels",
+    "train_class_nums": 10,
+    "save_dir": "path/to/save/save_dir",
+    "test_image_dir": "path/to/test/images",
+    "test_label_dir": "path/to/test/labels",
+    "test_class_nums": 10,
+    "predict_dir": "path/to/predict/predict_dir"
+}

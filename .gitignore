@@ -1,0 +1,15 @@
+/.cache/
+/.pytest_cache/
+/__pychache__/
+/.vscode/
+/.github/
+/build/
+/dist/
+/*.egg-info/
+
+*.py[cdo]
+
+.DS_Store
+.idea/
+venv*
+*.bat
