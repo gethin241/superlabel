@@ -1,12 +1,5 @@
 <h1 align="center">
-  <ul style="display: flex; list-style: none; padding: 0; justify-content: center; align-items: center;">
-    <li style="margin-right: 40px; text-align: center;">
-      <img src="labelme/icons/icon.png" alt="Icon" style="max-width: 100px; max-height: 100px;">
-    </li>
-    <li style="text-align: center;">
-      <img src="labelme/icons/csu-logo.jpg" alt="CSU Logo" style="max-width: 200px; max-height: 100px;">
-    </li>
-  </ul>
+  <img src="labelme/icons/csu-logo.jpg" style="max-width: 200px; max-height: 100px;">
   <br/>superlabel
 </h1>
 
@@ -19,9 +12,6 @@
   | <a href="#使用"><b>使用</b></a>
 </div>
 
-<!-- <div align="center">
-  <img src="examples/instance_segmentation/.readme/annotation.jpg" width="70%">
-</div> -->
 
 ## 概述
 
