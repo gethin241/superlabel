@@ -1,8 +1,12 @@
 <h1 align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="labelme/icons/icon.png" style="max-width: 100px; max-height: 100px; margin-right: 20px;" alt="Icon">
-    <img src="labelme/icons/csu-logo.jpg" style="max-width: 200px; max-height: 100px;" alt="CSU Logo">
-  </div>
+  <ul style="display: flex; list-style: none; padding: 0; justify-content: center; align-items: center;">
+    <li style="margin-right: 40px; text-align: center;">
+      <img src="labelme/icons/icon.png" alt="Icon" style="max-width: 100px; max-height: 100px;">
+    </li>
+    <li style="text-align: center;">
+      <img src="labelme/icons/csu-logo.jpg" alt="CSU Logo" style="max-width: 200px; max-height: 100px;">
+    </li>
+  </ul>
   <br/>superlabel
 </h1>
 
